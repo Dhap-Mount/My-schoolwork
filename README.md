@@ -8,6 +8,8 @@ program designing of cpp.
 
 This file includes my C++ coding schoolwork in NJUST. 
 
+*myfunction.h* 和 *myfunction.cpp* 包含了一些常用的自定义函数。
+
 ---
 
 ### 备注
